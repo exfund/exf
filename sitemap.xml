@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://exf.fund/</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://exf.fund/index.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/index.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/index.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/exf-secure-money-transfer-peer-to-peer.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/exf-technology.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/exchange.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/whitepaper_en.pdf</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/cryptocurrency-based-digital-coins.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/en/doc/appendix.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/index.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/exf-iki-kisi-arasinda-guvenli-para-transferi.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/exf-teknolojisi.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/borsa.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/whitepaper_tr.pdf</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/kripto-temelli-dijital-paralar.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://exf.fund/tr/doc/ekler.html</loc>
+  <lastmod>2022-07-19T14:27:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
