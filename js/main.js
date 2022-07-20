@@ -77,18 +77,6 @@ function calculateTotal(tiggerControl){
 }
 
 $(window).scroll(function () {
-    /*
-    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    var scrolled = (winScroll / height) * 100;
-    if (scrolled > 9) {
-        $("#nav-id").css("transition", "all ease 0.3s");
-        $("#nav-id").css("background", "rgba(14, 13, 45,0.9)");
-    } else {
-        $("#nav-id").css("transition", "all ease 0.3s");
-        $("#nav-id").css("background", "rgba(0, 0, 0, 0)");
-    }
-    */
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
         topButton.style.display = "block";
     } else {
