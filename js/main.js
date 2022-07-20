@@ -10,11 +10,7 @@ var startupExf=250000000;
 var availableExf=250000000;
 var topButton = document.getElementById("toTopBtn");
 
-var sList=[
-    ["f6fc84c9f21c24907d6bee6","250000000","1000","3000","Türkiye","12.05.2022"],
-    ["6bee6eec38cabab5fa9a7be","249000000","500","1500","ABD / NW","15.05.2022"]
-];
-sList=[];
+var sList=[];
 
 exfSlider.value=availableExf;
 availableExfTitle.innerHTML=availableExf.format(2, 3, '.', ',')+" EXF";
