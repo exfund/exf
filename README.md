@@ -1,4 +1,4 @@
-# exf
+# EXF
 EXF cryptocurrency is based on trust protocol. The protocol we call the trust protocol is actually based on the functioning of trust between people in normal life.
 
 This process, known and naturally understood by all people, is basically based on previous experiences. A person we know and trust before and a person we have never met and have no knowledge about are not equal in terms of reliability. This is the natural flow of life, and that is what is right. The trust protocol in EXF has transformed the trust process between people in normal life into a software protocol.
