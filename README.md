@@ -3,7 +3,7 @@ EXF cryptocurrency is based on trust protocol. The protocol we call the trust pr
 
 This process, known and naturally understood by all people, is basically based on previous experiences. A person we know and trust before and a person we have never met and have no knowledge about are not equal in terms of reliability. This is the natural flow of life, and that is what is right. The trust protocol in EXF has transformed the trust process between people in normal life into a software protocol.
 
-This trust functioning, which is also at the center of our daily lives, consists of many parts. Click here to learn more about the trust protocol. However, to summarize the basic principle of the trust protocol in a single sentence; "Hard to get, time consuming and easy to lose".
+This trust functioning, which is also at the center of our daily lives, consists of many parts. However, to summarize the basic principle of the trust protocol in a single sentence; "Hard to get, time consuming and easy to lose".
 
 EXF, the cryptocurrency system, consists of a community with various roles within it. Within this community, security levels have been established according to the trust protocol.
 
